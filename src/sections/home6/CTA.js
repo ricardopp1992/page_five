@@ -24,9 +24,9 @@ const CTA = ({ className, ...rest }) => {
                 }}
               >
                 <span className="text-golden-yellow mr-3">
-                  <i className="fa fa-play-circle" />
+                  {/* <i className="fa fa-play-circle" /> */}
                 </span>{" "}
-                Finity takes only 5 mins to setup your mobile app from website.
+                Et exercitation velit consectetur sint duis commodo.
               </a>
             </div>
           </div>

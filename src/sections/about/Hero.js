@@ -13,10 +13,10 @@ const Hero = () => {
               data-aos-duration={500}
               data-aos-delay={500}
             >
-              <h2 className="font-size-11 mb-5">About us</h2>
+              <h2 className="font-size-11 mb-5">Nostrud anim</h2>
               <p className="font-size-7 mb-0">
-                Our focus is always on finding the best people to work with. Our
-                bar is high, but you look ready to take on the challenge.
+                Pariatur occaecat et proident adipisicing deserunt duis veniam sit.
+                Sunt fugiat aute cillum pariatur ex ipsum esse sunt officia ea sint.
               </p>
             </div>
           </div>

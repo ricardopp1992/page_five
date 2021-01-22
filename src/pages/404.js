@@ -44,8 +44,8 @@ const PricingPage = () => {
                     data-aos="fade-up"
                     data-aos-duration={900}
                   >
-                    The page you are looking for is not available or doesn’t
-                    belong to this website!
+                    Reprehenderit cupidatat nulla sint veniam amet.
+                    Aute laborum labore consectetur aliquip nisi aliqua deserunt
                   </p>
                   <div className="">
                     <div
@@ -57,7 +57,7 @@ const PricingPage = () => {
                         href="/#"
                         className="btn btn-bali-gray w-100 rounded-5 text-white"
                       >
-                        Go back to home
+                        laborum magna consectetur
                       </Link>
                     </div>
                   </div>

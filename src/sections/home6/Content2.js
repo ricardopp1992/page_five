@@ -16,15 +16,15 @@ const Content2 = ({ className, ...rest }) => {
                 data-aos="fade-up"
                 data-aos-delay={300}
               >
-                Real-time data from dashboard.
+                Enim nulla elit proident reprehenderit
               </h2>
               <p
                 className="font-size-7 mb-0"
                 data-aos="fade-up"
                 data-aos-delay={600}
               >
-                Your app is your tool for better solution with your followers,
-                making it easier for them to keep up to date.
+                Aute magna sit nisi sint.Est culpa non do nostrud dolore mollit eu enim.
+                Est culpa non do nostrud dolore mollit eu enim.
               </p>
             </div>
           </div>

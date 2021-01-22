@@ -69,8 +69,8 @@ const Layout = ({ children, pageContext }) => {
     return (
       <>
         <Head>
-          <title>Finity</title>
-          <link rel="icon" type="image/png" href={imgFavicon} />
+          <title>Page</title>
+          {/* <link rel="icon" type="image/png" href={imgFavicon} /> */}
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Head>
         <Loader id="loading" className={visibleLoader ? "" : "inActive"} />
@@ -89,8 +89,8 @@ const Layout = ({ children, pageContext }) => {
     <>
       <>
         <Head>
-          <title>Finity</title>
-          <link rel="icon" type="image/png" href={imgFavicon} />
+          <title>Page</title>
+          {/*<link rel="icon" type="image/png" href={imgFavicon} /> */}
           <body data-theme={gContext.theme.bodyDark ? "dark" : "light"} />
         </Head>
         <Loader id="loading" className={visibleLoader ? "" : "inActive"} />

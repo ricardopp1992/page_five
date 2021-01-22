@@ -41,16 +41,15 @@ const CTA = () => {
                 data-aos="fade-up"
                 data-aos-duration={600}
               >
-                Working with us
+                Velit ad in adipisicing 
               </h2>
               <p
                 className="font-size-6 mb-0 pr-xs-15 pr-sm-10 pr-xl-15"
                 data-aos="fade-up"
                 data-aos-duration={900}
               >
-                These companies release their own versions of the operating
-                systems with minor changes, and yet always with the same bottom
-                line.{" "}
+                Anim incididunt nulla non laboris laboris irure quis ex in sit.
+                Aliquip labore esse qui adipisicing pariatur.{" "}
               </p>
               <div
                 className="mt-11"
@@ -59,7 +58,7 @@ const CTA = () => {
               >
                 <Link href="/#">
                   <a className="btn btn-blue-3 btn-2 font-weight-medium rounded-5">
-                    See Job Openings
+                    Occaecat dolor
                   </a>
                 </Link>
               </div>

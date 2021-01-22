@@ -15,7 +15,7 @@ const Content = () => {
               data-aos-duration={500}
             >
               <h2 className="font-size-10 mb-0 letter-spacing-n83">
-                Change the game through design
+                Cupidatat enim ipsum proident consequat 
               </h2>
             </div>
           </div>
@@ -54,25 +54,26 @@ const Content = () => {
               data-aos-duration={600}
             >
               <p className="heading-default-color font-size-6 mb-4 mb-lg-9">
-                Computer users and programmers have become so accustomed to
-                using Windows, even for the changing capabilities and the
-                appearances of the graphical interface of the versions,
-                therefore it has remained Microsoft’s product.
+                Ipsum incididunt deserunt id cupidatat fugiat aliqua proident 
+                eiusmod velit velit consequat.Fugiat incididunt tempor quis 
+                veniam non in id mollit aliqua tempor.Exercitation non ea sunt 
+                do nulla culpa ad ullamco nisi pariatur esse sit.
               </p>
               <p className="heading-default-color font-size-6 mb-5 mb-lg-13">
-                These companies release their own versions of the operating
-                systems with minor changes, and yet always with the same bottom
-                line.{" "}
+              Ipsum incididunt deserunt id cupidatat fugiat aliqua proident 
+                eiusmod velit velit consequat.Fugiat incididunt tempor quis 
+                veniam non in id mollit aliqua tempor.Exercitation non ea sunt 
+                do nulla culpa ad ullamco nisi pariatur esse sit.{" "}
               </p>
               <div className="">
                 <p className="font-size-3 line-height-20 mb-7 mr-xs-17 mr-md-11 mr-lg-18 mr-xl-20">
-                  “The following article covers a topic that has recently moved
-                  to center stage–at least it seems that way. If you’ve been
-                  thinking you need to know more about unconditional love,
-                  here’s your opportunity.”
+                  “ Ipsum incididunt deserunt id cupidatat fugiat aliqua proident 
+                eiusmod velit velit consequat.Fugiat incididunt tempor quis 
+                veniam non in id mollit aliqua tempor.Exercitation non ea sunt 
+                do nulla culpa ad ullamco nisi pariatur esse sit.”
                 </p>
                 <h6 className="font-size-3 font-weight-medium">
-                  John Doe, Founder of Matrix
+                   Occaecat aliquip nostrud
                 </h6>
               </div>
             </div>

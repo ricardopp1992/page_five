@@ -39,16 +39,17 @@ const Hero = ({ className, ...rest }) => {
               data-aos-delay={750}
             >
               <h1 className="font-size-13 mb-8 pr-sm-18 pr-md-8 pr-lg-0 line-height-84">
-                Take your business to next level.
+                Sint duis sunt anim ex
               </h1>
               <p className="font-size-7 mb-0 pr-sm-10 pr-md-10 pr-lg-0 pr-xl-18">
-                Your app is your tool for better solution with your followers,
-                making it easier for them to keep up to date.
+                Dolor dolor ad ullamco veniam sunt anim laborum tempor ullamco 
+                incididunt sit pariatur et. Culpa mollit eiusmod anim laborum nisi 
+                fugiat do nisi incididunt. Incididunt nostrud cillum consectetur 
               </p>
               <div className="mt-10">
                 <Link href="/#">
                   <a className="btn btn-dark-green btn-3 rounded-5">
-                    Request Free Access
+                     Incididunt nostrud 
                   </a>
                 </Link>
               </div>

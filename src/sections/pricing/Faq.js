@@ -8,7 +8,7 @@ const Faq = () => {
         <div className="row justify-content-center">
           <div className="col-xl-8 col-lg-9">
             <div className="text-center mb-13 mb-lg-19">
-              <h2 className="font-size-9 mb-0">Frequently Asked Question</h2>
+              <h2 className="font-size-9 mb-0">Eu in dolor in anim </h2>
             </div>
           </div>
         </div>
@@ -30,14 +30,12 @@ const Faq = () => {
               </div>
               <div className="">
                 <h4 className="font-size-7 mb-7">
-                  Does this template support WordPress?
+                  ullamco exercitation id et fugiat voluptate esse.
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                  A Senior Data Engineer provides technical and delivery
-                  leadership for a team of developers working on data
-                  integration and processing projects. This role will work with
-                  stakeholders and other developers to design and implement
-                  technical data solutions.
+                  Laborum fugiat ipsum excepteur ut excepteur est officia aliquip sint fugiat.
+                  Ea excepteur proident enim reprehenderit sunt velit veniam Lorem ut elit elit.
+                  Culpa nostrud sint id ad nisi occaecat anim nulla deserunt labore.
                 </p>
               </div>
             </div>
@@ -57,14 +55,12 @@ const Faq = () => {
               </div>
               <div className="">
                 <h4 className="font-size-7 mb-7">
-                  Will get any update after purchase?
+                   Consequat voluptate sint ullamco ut nulla.
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                  A Senior Data Engineer provides technical and delivery
-                  leadership for a team of developers working on data
-                  integration and processing projects. This role will work with
-                  stakeholders and other developers to design and implement
-                  technical data solutions.
+                  Sit exercitation adipisicing ipsum ad veniam dolor consequat reprehenderit cillum sunt.
+                  Cupidatat Lorem consectetur non pariatur pariatur. Anim nisi ad ullamco sunt enim ipsum.
+                  Consequat voluptate sint ullamco ut nulla.
                 </p>
               </div>
             </div>
@@ -84,14 +80,12 @@ const Faq = () => {
               </div>
               <div className="">
                 <h4 className="font-size-7 mb-7">
-                  How to contact with your support?
+                  Eu pariatur minim minim excepteur sit 
                 </h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                  A Senior Data Engineer provides technical and delivery
-                  leadership for a team of developers working on data
-                  integration and processing projects. This role will work with
-                  stakeholders and other developers to design and implement
-                  technical data solutions.
+                  Qui est nulla dolor ut mollit ipsum amet magna esse reprehenderit et aliquip.
+                  Incididunt ex ex aliquip amet aliqua duis. Aute reprehenderit laborum duis magna
+                  fugiat exercitation ipsum aute in eu.
                 </p>
               </div>
             </div>
@@ -110,13 +104,12 @@ const Faq = () => {
                 </div>
               </div>
               <div className="">
-                <h4 className="font-size-7 mb-7">Do you give any refund?</h4>
+                <h4 className="font-size-7 mb-7">Non proident laborum proident nisi.</h4>
                 <p className="font-size-5 pr-md-10 pr-lg-0 mb-0">
-                  A Senior Data Engineer provides technical and delivery
-                  leadership for a team of developers working on data
-                  integration and processing projects. This role will work with
-                  stakeholders and other developers to design and implement
-                  technical data solutions.
+                  Velit veniam cupidatat voluptate anim non non magna id qui.
+                  Do anim consectetur nulla aliqua ut. Consequat esse proident nostrud
+                  pariatur cillum laboris consectetur qui enim consequat labore ut id nostrud.
+                  Dolor ex dolore labore eu aute sint nostrud excepteur. Commodo velit deserunt minim minim laborum aliquip.
                 </p>
               </div>
             </div>
@@ -130,9 +123,9 @@ const Faq = () => {
           data-aos-duration={500}
         >
           <p className="font-size-6 mb-0">
-            Still have a question about our service?
+              Sit sunt anim ut magna quis cupidatat esse laborum 
             <a className="text-blue-3 btn-link-with-underline ml-5" href="/#">
-              Contact with us
+              cillum laboris 
             </a>
           </p>
         </div>

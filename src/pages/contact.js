@@ -57,7 +57,7 @@ const Contact = () => {
                           className="font-size-7 font-weight-bold heading-default-color"
                           href="/#"
                         >
-                          +1-394-429-3985
+                          +5-555-555-555
                         </a>
                       </div>
                     </div>
@@ -70,7 +70,7 @@ const Contact = () => {
                           className="font-size-7 font-weight-bold heading-default-color"
                           href="/#"
                         >
-                          support@finity.com
+                            lorem@ipsum.com
                         </a>
                       </div>
                     </div>

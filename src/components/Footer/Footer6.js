@@ -18,7 +18,7 @@ const Footer = ({ className, ...rest }) => {
             <div className="col-lg-4 col-md-5 col-md-3 col-xs-8">
               <div className="pr-xl-20 mb-11 mb-lg-0">
                 <div className="brand-logo mb-8">
-                  <Link href="/#">
+                  {/* <Link href="/#">
                     <a>
                       <img
                         className="mx-auto mx-0 light-version-logo default-logo"
@@ -31,11 +31,12 @@ const Footer = ({ className, ...rest }) => {
                         alt=""
                       />
                     </a>
-                  </Link>
+                  </Link> */}
                 </div>
                 <p className="font-size-5 mb-0 heading-default-color pr-xs-15 pr-sm-22 pr-md-10 pr-lg-15 pr-xl-10 opacity-7">
-                  Your app is your tool for better solution with your followers,
-                  making it easier for them to keep up to date.
+                  Est non in ut in exercitation nisi.Quis voluptate exercitation 
+                  exercitation mollit quis culpa reprehenderit dolore.
+                  Est non in ut in exercitation nisi.
                 </p>
                 <div className="mt-12">
                   <Link href="/#">

@@ -16,7 +16,7 @@ const Footer = ({ className, ...rest }) => {
           <div className="row pb-lg-25">
             <div className="col-lg-4 col-md-5 col-md-3 col-xs-8">
               <div className="pr-xl-20 mb-11 mb-lg-0 mt-lg-5">
-                <div className="brand-logo mb-5">
+                {/* <div className="brand-logo mb-5">
                   <Link href="/#">
                     <a>
                       <img
@@ -31,15 +31,15 @@ const Footer = ({ className, ...rest }) => {
                       />
                     </a>
                   </Link>
-                </div>
+                </div> */}
                 <p className="font-size-5 mb-0 text-bali-gray pr-sm-10 pr-md-0">
-                  Your ulitmate email solution to grow business and engaging
-                  with future customers and clients.
+                  Ea duis mollit proident sunt deserunt voluptate consectetur dolor 
+                  Lorem nostrud eu in laborum nisi.
                 </p>
                 <div className="mt-8">
                   <Link href="/#">
                     <a className="btn btn-blue-3 btn-sm rounded-5 text-lily-white font-size-3">
-                      Ask Question
+                      consectetur
                     </a>
                   </Link>
                 </div>
@@ -125,18 +125,18 @@ const Footer = ({ className, ...rest }) => {
                       Contacts
                     </h4>
                     <p className="font-size-5 mb-0 text-lily-white">
-                      Feel free to get in touch with us via phone or send us a
-                      message.
+                      In proident velit sit anim est occaecat eiusmod 
+                      cupidatat nostrud cupidatat.
                     </p>
                     <div className="mt-7">
-                      <Link href="tel:+1-301-340-3946">
+                      <Link href="tel:+5-555-555-555">
                         <a className="font-size-5 d-block text-golden-yellow mb-0">
-                          +1-301-340-3946
+                          +5-555-555-555
                         </a>
                       </Link>
-                      <Link href="mailto:info@finity.com">
+                      <Link href="mailto:lorem@ipsum.com">
                         <a className="font-size-5 d-block text-golden-yellow mb-0">
-                          info@finity.com
+                          lorem@ipsum.com
                         </a>
                       </Link>
                     </div>
@@ -151,7 +151,7 @@ const Footer = ({ className, ...rest }) => {
               <div className="col-lg-6 text-center text-lg-left">
                 <div className="copyright">
                   <p className="mb-0 font-size-3 text-bali-gray">
-                    © Finity 2019, All Rights Reserved
+                    © All Rights Reserved
                   </p>
                 </div>
               </div>

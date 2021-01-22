@@ -39,15 +39,16 @@ const Content1 = ({ className, ...rest }) => {
                 data-aos="fade-up"
                 data-aos-delay={300}
               >
-                Get data live on your mobile
+                Reprehenderit commodo.
               </h2>
               <p
                 className="font-size-7 mb-0 pr-xl-13"
                 data-aos="fade-up"
                 data-aos-delay={600}
               >
-                Your app is your tool for better solution with your followers,
-                making it easier for them to keep up to date.
+                Est amet esse ullamco id fugiat qui ea sint cillum ut elit Lorem.
+                Est amet esse ullamco id fugiat qui ea sint cillum ut elit Lorem.
+
               </p>
             </div>
           </div>

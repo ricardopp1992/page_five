@@ -28,14 +28,14 @@ const CareerDetails = () => {
                   <div className="mb-7 d-inline-flex align-items-center flex-wrap">
                     <span className="d-block d-inline-flex align-items-center mr-sm-6 text-bali-gray">
                       <i className="icon icon-pin-3 mr-1 text-bali-gray position-relative" />
-                      South Haven, USA
+                      nisi tempor 
                     </span>
                     <p className="bg-dark-green-op1 font-size-3 font-weight-medium badge mb-0 py-2 px-4 ml-8">
-                      <span className="text-dark-green">Full-time</span>
+                      <span className="text-dark-green">Incididunt</span>
                     </p>
                   </div>
                   <h2 className="font-size-11 font-weight-bold text-center mb-lg-15 mb-0">
-                    Senior Software Engineer
+                    Deserunt nisi tempor 
                   </h2>
                 </div>
               </div>
@@ -43,52 +43,52 @@ const CareerDetails = () => {
                 {/* terms-contents  */}
                 <div className="pt-lg-0 pt-10 pl-lg-10 px-xl-15">
                   <p className="font-size-5 heading-default-color mb-9">
-                    Headquartered in Melbourne, Australia, Envato is a
-                    completely online company with an ecosystem of sites and
-                    services to help people get creative. We’ve consistently
-                    been named as one of the Best Places to Work in Australia,
-                    since 2015, in the BRW Awards, and we’ve also been awarded
-                    the title of Australia's Coolest Company for Women and
-                    Diversity by JobAdvisor.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
+
                   </p>
                   <p className="font-size-5 heading-default-color mb-9">
-                    Envato was found in 2006 and, since then, we’ve helped a
-                    community of creative sellers earn more than $500 Million.
-                    Millions of people around the world choose our marketplace,
-                    studio and courses to buy files, hire freelancers, or learn
-                    the skills needed to build websites, videos, apps, graphics
-                    and more. Find out more at Envato Market, Envato Elements,
-                    Envato Sites, Envato Studio and Tuts+.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
                   </p>
                   <p className="font-size-5 heading-default-color mb-9">
-                    You might be surprised to know that not only do we run some
-                    of the biggest websites in the world; we’re also growing
-                    really fast! We have close to 600 staff and contractors
-                    worldwide, adding more than 100 people to the business, year
-                    on year, since 2017.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
                   </p>
                   <div className="article-block mt-11 mt-lg-15">
-                    <h5 className="font-size-7 mb-6">What you’ll be doing</h5>
+                    <h5 className="font-size-7 mb-6"> Eiusmod mollit occaecat </h5>
                     <p className="font-size-5 heading-default-color mb-9">
-                      A Senior Data Engineer provides technical and delivery
-                      leadership for a team of developers working on data
-                      integration and processing projects. This role will work
-                      with stakeholders and other developers to design and
-                      implement technical data solutions for the business in a
-                      way that balances quality, cost, time and maintainability.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
+                    Eiusmod mollit occaecat tempor eiusmod velit ea amet sit.
+                    Ut aute duis veniam veniam exercitation ad amet dolor veniam.
+                    Labore ex ea ipsum commodo. Laboris est ad velit et dolor laborum aliquip.
                     </p>
                   </div>
                   {/* article-block */}
                   <div className="mt-11 mt-lg-16">
                     {/* block-title */}
                     <h5 className="font-size-7 mb-6">
-                      Skills &amp; Qualifications
+                      Eiusmod mollit occaecat
                     </h5>
                     {/* term-list */}
                     <ul className="p-0 m-0 list-disc">
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        Business Intelligence solutions
+                        Eiusmod mollit occaecat
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
@@ -96,51 +96,51 @@ const CareerDetails = () => {
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        Relevant server-side programming languages (C# .NET)
+                        Aute commodo ullamco est culpa aliquip anim veniam mollit ex culpa quis.
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        SQL and NoSQL database solutions (AWS Redshift and AWS
-                        DynamoDB)
+                        Laborum enim sint non est esse sint elit fugiat consectetur enim consequat consequat.
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        Big data processing frameworks and concepts
+                        Duis Lorem voluptate fugiat 
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        DevOps practices
+                        sit nostrud qui est 
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        Serverless Architecture
+                        dolore ex veniam non.
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        *NIX operating systems
+                        Amet ea sint non sunt 
                       </li>
                       <li className="position-relative font-size-5 heading-default-color pl-8 d-flex mb-7">
                         <span className="circle-9 mr-3 mt-4 bg-black" />
-                        Demonstrates ability to communicate effectively with the
-                        rest of the team
+                        cupidatat dolor ipsum dolor elit proident fugiat ipsum in est.
                       </li>
                     </ul>
                   </div>
                   {/* article-block */}
                   <div className="mt-11 mt-md-16">
-                    <h5 className="font-size-7 mb-7">How to apply</h5>
+                    <h5 className="font-size-7 mb-7"> dolor elit</h5>
                     <p className="font-size-5 heading-default-color">
-                      A Senior Data Engineer provides technical and delivery
-                      leadership for a team of developers working on data
-                      integration and processing projects. This role will work
-                      with stakeholders and other developers to design and
-                      implement technical data solutions for the business in a
-                      way that balances quality, cost, time and maintainability.
+                      Sunt exercitation adipisicing aliquip proident laborum tempor
+                      dolor irure dolore duis dolore nisi Lorem. Nostrud ut eu sit
+                      elit exercitation tempor. Mollit anim eu ipsum nostrud proident
+                      amet qui qui deserunt voluptate nostrud cillum Lorem. 
+                      Nisi cupidatat qui exercitation exercitation mollit dolor tempor
+                      reprehenderit aliquip exercitation duis.Ea laboris cillum nulla
+                      eiusmod pariatur ea est fugiat esse consequat.
+                      Labore anim enim qui labore cillum esse labore amet dolore laborum do labore exercitation eu.
                     </p>
                   </div>
                   <div className="apply-btn pt-7 pt-md-13">
                     <a className="btn btn-blue-3 btn-2 rounded-5" href="/#">
-                      Apply for this job
+                      qui labore cillum
                     </a>
                   </div>
                 </div>

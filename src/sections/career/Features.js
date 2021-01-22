@@ -5,39 +5,39 @@ import imgE from "../../assets/image/inner-page/png/explore.png";
 const items = [
   {
     icon: imgE,
-    title: "Work from anywhere",
+    title: "Aliqua reprehenderit.",
     content:
-      "Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!",
+      "Quis culpa sit deserunt do in sunt.Anim incididunt adipisicing incididunt sunt excepteur.",
   },
   {
     icon: imgE,
-    title: "Flexible hours",
+    title: "Aliqua reprehenderit.",
     content:
-      "Need to work around school drop-offs and pick-ups? Just not a morning person? No worries.",
+      "Quis culpa sit deserunt do in sunt.Anim incididunt adipisicing incididunt sunt excepteur.",
   },
   {
     icon: imgE,
-    title: "Work and travel",
+    title: "Aliqua reprehenderit.",
     content:
-      "You can work and travel around the world for up to three months every year!",
+      "Quis culpa sit deserunt do in sunt.Anim incididunt adipisicing incididunt sunt excepteur.",
   },
   {
     icon: imgE,
-    title: "Paid parental leave",
+    title: "Aliqua reprehenderit.",
     content:
-      "Many of us are able to work from home, a café, or a park whenever we want. Yay freedom!",
+      "Quis culpa sit deserunt do in sunt.Anim incididunt adipisicing incididunt sunt excepteur.",
   },
   {
     icon: imgE,
-    title: "Yearly bonuses",
+    title: "Aliqua reprehenderit.",
     content:
-      "Need to work around school drop-offs and pick-ups? Just not a morning person? No worries.",
+      "Quis culpa sit deserunt do in sunt.Anim incididunt adipisicing incididunt sunt excepteur.",
   },
   {
     icon: imgE,
-    title: "Smart salary",
+    title: "Aliqua reprehenderit.",
     content:
-      "You can work and travel around the world for up to three months every year!",
+      "Quis culpa sit deserunt do in sunt.Anim incididunt adipisicing incididunt sunt excepteur.",
   },
 ];
 
@@ -54,7 +54,7 @@ const Features = () => {
               data-aos-duration={600}
             >
               <h2 className="font-size-10 letter-spacing-n83">
-                Why you’d love to work with us
+                Irure magna excepteur eiusmod 
               </h2>
             </div>
           </div>

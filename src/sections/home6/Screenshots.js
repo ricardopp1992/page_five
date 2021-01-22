@@ -157,10 +157,10 @@ const Testimonial = ({ className, ...rest }) => {
           <div className="row justify-content-center">
             <div className="col-xl-7 col-lg-8 col-md-10">
               <div className="text-center dark-mode-texts mb-8 mb-lg-18">
-                <h2 className="font-size-11">Inside our app</h2>
+                <h2 className="font-size-11">Eu excepteur ipsum </h2>
                 <p className="font-size-7 mb-0 opacity-7">
-                  Sophisticated styling with exceptional comfort. Super-soft,
-                  pressure-relieving earpads in foamed urethane.
+                  duis consequat anim voluptate velit.Esse amet et quis quis enim 
+                  voluptate quis sit incididunt qui incididunt consequat in ipsum.
                 </p>
               </div>
             </div>

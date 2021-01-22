@@ -14,10 +14,10 @@ const Hero = () => {
               data-aos-duration={500}
               data-aos-delay={500}
             >
-              <h2 className="font-size-11 mb-5">Career</h2>
+              <h2 className="font-size-11 mb-5">tempor ullamco</h2>
               <p className="font-size-7 mb-0">
-                Our focus is always on finding the best people to work with. Our
-                bar is high, but you look ready to take on the challenge.
+                Cupidatat esse labore amet labore irure ea aute 
+                minim et proident ullamco enim.Mollit proident minim irure 
               </p>
             </div>
           </div>

@@ -24,10 +24,10 @@ const ResetPass = () => {
                     data-aos-delay={500}
                   >
                     <h2 className="mb-1 font-size-10 letter-spacing-n83">
-                      Forgot password?
+                    Ad reprehenderit
                     </h2>
                     <p className="text-bali-gray font-size-7 mb-0">
-                      Enter your details to recieve a reset link
+                    esse amet occaecat officia 
                     </p>
                   </div>
                   <form
@@ -55,7 +55,7 @@ const ResetPass = () => {
                     {/* Bottom */}
                     <div className="button">
                       <a href="/#" className="btn btn-blue-3  w-100 rounded-4">
-                        Send Reset Link
+                      et aliqua labore 
                       </a>
                       <p
                         className="text-center font-size-5 mt-8 text-bali-gray"
@@ -63,9 +63,9 @@ const ResetPass = () => {
                         data-aos-duration={1100}
                         data-aos-delay={500}
                       >
-                        Remember password?{" "}
+                        sunt minim elit{" "}
                         <Link href="/signin">
-                          <a className="text-blue-3">Sign in</a>
+                          <a className="text-blue-3">Labor</a>
                         </Link>
                       </p>
                     </div>

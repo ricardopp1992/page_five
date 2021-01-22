@@ -13,20 +13,20 @@ const Pricing = () => {
               data-aos-duration={300}
               data-aos-once="true" data-aos-duration={1000}
             >
-              <p className="text-dodger-blue-1 font-size-5 mb-9">Basic</p>
+              <p className="text-dodger-blue-1 font-size-5 mb-9">Lorem</p>
               <h2 className="font-size-11 mb-1">$0</h2>
-              <span className="font-size-5 mb-2">free forever</span>
+              <span className="font-size-5 mb-2">Ea id cupidatat</span>
               <ul className="list-unstyled font-size-5 line-height-50 heading-default-color pt-8">
-                <li className="mb-7">Drag &amp; Drop Builder</li>
-                <li className="mb-7">100s of Templates Ready</li>
-                <li className="mb-7">Blog Tools</li>
+                <li className="mb-7"> deserunt aliquip ut.r</li>
+                <li className="mb-7">Ea sit voluptate </li>
+                <li className="mb-7">adipisicing elit</li>
                 <li className="mb-7 text-stone">
-                  <del>eCommerce Store</del>
+                  <del>Excepteur eu sint</del>
                 </li>
               </ul>
               <div className="pt-7">
                 <a className="btn btn-blue-3 btn-2 rounded-5" href="/#">
-                  Start 14 days free trial
+                  Id ipsum 
                 </a>
               </div>
             </div>
@@ -40,18 +40,18 @@ const Pricing = () => {
               data-aos-duration={600}
               data-aos-once="true" data-aos-duration={1000}
             >
-              <p className="text-dodger-blue-1 font-size-5 mb-9">Standard</p>
+              <p className="text-dodger-blue-1 font-size-5 mb-9">Ipsum</p>
               <h2 className="font-size-11 mb-1">$19</h2>
-              <span className="font-size-5 mb-2">first 14 days free</span>
+              <span className="font-size-5 mb-2">Id ipsum deserunt nostrud</span>
               <ul className="list-unstyled font-size-5 line-height-50 heading-default-color pt-8">
-                <li className="mb-7">Drag &amp; Drop Builder</li>
-                <li className="mb-7">100s of Templates Ready</li>
-                <li className="mb-7">Blog Tools</li>
-                <li className="mb-7">eCommerce Store</li>
+                <li className="mb-7">exercitation duis sint </li>
+                <li className="mb-7">adipisicing eu consectetur.</li>
+                <li className="mb-7">duis sint</li>
+                <li className="mb-7">adipisicing </li>
               </ul>
               <div className="pt-7">
                 <a className="btn btn-blue-3 btn-2 rounded-5" href="/#">
-                  Start 14 days free trial
+                  Id ipsum 
                 </a>
               </div>
             </div>
@@ -65,18 +65,18 @@ const Pricing = () => {
               data-aos-duration={900}
               data-aos-once="true" data-aos-duration={1000}
             >
-              <p className="text-dodger-blue-1 font-size-5 mb-9">Premium</p>
+              <p className="text-dodger-blue-1 font-size-5 mb-9">Sit qui </p>
               <h2 className="font-size-11 mb-1">$49</h2>
-              <span className="font-size-5 mb-2">first 14 days free</span>
+              <span className="font-size-5 mb-2">velit sunt quis </span>
               <ul className="list-unstyled font-size-5 line-height-50 heading-default-color pt-8">
-                <li className="mb-7">Drag &amp; Drop Builder</li>
-                <li className="mb-7">100s of Templates Ready</li>
-                <li className="mb-7">Blog Tools</li>
-                <li className="mb-7">eCommerce Store</li>
+                <li className="mb-7">officia occaecat aliquip cillum </li>
+                <li className="mb-7">tempor eu ut ea.</li>
+                <li className="mb-7">officia occaecat</li>
+                <li className="mb-7">aliquip cillum</li>
               </ul>
               <div className="pt-7">
                 <a className="btn btn-blue-3 btn-2 rounded-5" href="/#">
-                  Start 14 days free trial
+                  Id ipsum 
                 </a>
               </div>
             </div>

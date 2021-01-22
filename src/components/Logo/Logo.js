@@ -9,9 +9,9 @@ const Logo = ({ className = "", ...rest }) => {
     <Link href="/#">
       <a className={`${className}`} {...rest}>
         {/* <!-- light version logo (logo must be black)--> */}
-        <img src={logoB} alt="" className="light-version-logo" />
+        {/* <img src={logoB} alt="" className="light-version-logo" /> */}
         {/* <!-- Dark version logo (logo must be White)--> */}
-        <img src={logoW} alt="" className="dark-version-logo" />
+        {/* <img src={logoW} alt="" className="dark-version-logo" /> */}
       </a>
     </Link>
   );

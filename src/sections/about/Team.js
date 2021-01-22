@@ -70,7 +70,7 @@ const Team = () => {
               data-aos="fade-up"
               data-aos-duration={500}
             >
-              <h2 className="font-size-10 mb-0">Our team members</h2>
+              <h2 className="font-size-10 mb-0">Esse quis laboris </h2>
             </div>
           </div>
         </div>
@@ -96,7 +96,7 @@ const Team = () => {
                 data-aos="fade-up"
                 data-aos-duration={500}
               >
-                Interested in joining our team?
+                Consequat ullamco adipisicing
               </h2>
               <a
                 className="btn btn-blue-3 btn-2 rounded-5"
@@ -104,7 +104,7 @@ const Team = () => {
                 data-aos="fade-up"
                 data-aos-duration={800}
               >
-                See Job Openings
+                Duis et ipsum
               </a>
             </div>
           </div>

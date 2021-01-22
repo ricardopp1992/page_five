@@ -17,15 +17,16 @@ const Promo = ({ className, ...rest }) => {
                   data-aos="fade-up"
                   data-aos-delay={500}
                 >
-                  Download our mobile app.
+                  Ullamco consectetur aute
                 </h3>
                 <p
                   className="font-size-6 mb-0 "
                   data-aos="fade-up"
                   data-aos-delay={800}
                 >
-                  Your app is your tool for better solution with your followers,
-                  making it easier for them to keep up to date.
+                  Deserunt ea ea laboris laboris non.
+                  Amet culpa magna pariatur ex eu adipisicing veniam 
+                  eiusmod consequat.Consectetur aute commodo eu et 
                 </p>
               </div>
             </div>
@@ -36,7 +37,7 @@ const Promo = ({ className, ...rest }) => {
                   data-aos="fade-up"
                   data-aos-delay={300}
                 >
-                  Available on
+                  Minim est officia 
                 </h5>
                 <div className="btn-group d-flex align-items-center justify-content-between flex-wrap flex-sm-nowrap">
                   <Link href="/#">

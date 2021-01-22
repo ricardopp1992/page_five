@@ -38,20 +38,21 @@ const Content3 = ({ className, ...rest }) => {
                 data-aos="fade-up"
                 data-aos-delay={300}
               >
-                Data is secured &amp; safe every second.
+                Proident deserunt adipisicing 
               </h2>
               <p
                 className="font-size-7 mb-0 pr-md-20 pr-xl-22"
                 data-aos="fade-up"
                 data-aos-delay={600}
               >
-                Your app is your tool for better solution with your followers,
-                making it easier for them to keep up to date.
+               In elit adipisicing reprehenderit adipisicing.
+               Aliquip ex elit proident veniam eiusmod pariatur.
+               Officia voluptate esse in anim.
               </p>
               <div className="mt-13">
                 <Link href="/#">
                   <a className="btn btn-dark-green btn-3 rounded-5">
-                    Request Free Access
+                    voluptate esse in anim.
                   </a>
                 </Link>
               </div>

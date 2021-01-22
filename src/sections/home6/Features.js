@@ -14,7 +14,7 @@ const Features = ({ className, ...rest }) => {
                 data-aos-delay={400}
               >
                 <h2 className="font-size-11">
-                  For everyday, just Speak-to-Chat.
+                  Velit eu aliquip tempor qui laboris.
                 </h2>
               </div>
             </div>
@@ -34,10 +34,9 @@ const Features = ({ className, ...rest }) => {
                         <i className="fa fa-link" />
                       </div>
                       <div className="mt-12 pr-lg-10 pr-md-0 pr-xs-8">
-                        <h4 className="font-size-7 mb-5">Engage Teammates</h4>
+                        <h4 className="font-size-7 mb-5">qui laboris.</h4>
                         <p className="font-size-5 mb-0">
-                          Typewolf is an independent text resource created
-                          Finity.
+                          Nisi officia excepteur anim deserunt nostrud laborum culpa cupidatat.
                         </p>
                       </div>
                     </div>
@@ -53,11 +52,10 @@ const Features = ({ className, ...rest }) => {
                       </div>
                       <div className="mt-12 pr-lg-10 pr-md-0 pr-xs-8">
                         <h4 className="font-size-7 mb-5">
-                          Level Up Productivity
+                          Veniam ullamco voluptate 
                         </h4>
                         <p className="font-size-5 mb-0">
-                          Typewolf is an independent text resource created
-                          Finity.
+                          in adipisicing voluptate nulla tempor ullamco officia proident enim.
                         </p>
                       </div>
                     </div>
@@ -72,10 +70,9 @@ const Features = ({ className, ...rest }) => {
                         <i className="fa fa-hourglass-half" />
                       </div>
                       <div className="mt-12 pr-lg-10 pr-md-0 pr-xs-8">
-                        <h4 className="font-size-7 mb-5">Optimize Time</h4>
+                        <h4 className="font-size-7 mb-5">Et ad dolor in </h4>
                         <p className="font-size-5 mb-0">
-                          Typewolf is an independent text resource created
-                          Finity.
+                          cupidatat minim deserunt amet officia officia elit ex do.
                         </p>
                       </div>
                     </div>
@@ -90,10 +87,9 @@ const Features = ({ className, ...rest }) => {
                         <i className="fa fa-link" />
                       </div>
                       <div className="mt-12 pr-lg-10 pr-md-0 pr-xs-8">
-                        <h4 className="font-size-7 mb-5">Engage Teammates</h4>
+                        <h4 className="font-size-7 mb-5">Dolor culpa laboris </h4>
                         <p className="font-size-5 mb-0">
-                          Typewolf is an independent text resource created
-                          Finity.
+                          Consectetur eiusmod mollit sint id sunt officia amet nisi.
                         </p>
                       </div>
                     </div>

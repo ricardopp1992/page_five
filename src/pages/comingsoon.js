@@ -24,7 +24,7 @@ const Contact = () => {
                       data-aos-duration={500}
                       data-aos-once="true"
                     >
-                      Somthing exciting is coming soon!
+                      Occaecat culpa nostrud dolor commodo.
                     </h2>
                     <p
                       className="font-size-7 mb-0 pr-xl-15"
@@ -32,9 +32,8 @@ const Contact = () => {
                       data-aos-duration={700}
                       data-aos-once="true"
                     >
-                      Our focus is always on finding the best people to work
-                      with. Our bar is high, but you look ready to take on the
-                      challenge.
+                      Quis velit excepteur id proident culpa. 
+                      Voluptate eu eiusmod cillum excepteur ipsum.
                     </p>
                   </div>
                   <div
@@ -58,7 +57,7 @@ const Contact = () => {
                           href="#"
                           className="btn btn-blue-3 w-100 h-55 rounded-4"
                         >
-                          Send
+                          velit
                         </a>
                         <p
                           className="font-size-5 mt-5 text-gray-chateau"
@@ -66,7 +65,7 @@ const Contact = () => {
                           data-aos-duration={1200}
                           data-aos-once="true"
                         >
-                          We’ll only send our service related emails
+                          Irure elit consectetur esse aute est cupidatat mollit
                         </p>
                       </div>
                     </form>

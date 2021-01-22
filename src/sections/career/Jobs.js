@@ -53,11 +53,11 @@ const Jobs = () => {
               data-aos-duration={600}
             >
               <h2 className="font-size-10 mb-7 letter-spacing-n83">
-                Open roles
+                Officia in
               </h2>
               <p className="font-size-6 font-weight-light mb-0 px-md-5 px-lg-0">
-                These companies release their own versions of the operating
-                systems with minor changes, and yet always.
+              adipisicing fugiat adipisicing esse id et anim tempor deserunt dolore sit.
+              Officia Lorem ea dolore amet irure nulla 
               </p>
             </div>
           </div>
